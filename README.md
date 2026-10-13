@@ -1,196 +1,280 @@
- 
-<!-- ================= HEADER ================= -->
+ <!-- ===================== ANIMATED HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=230&section=header&text=Lokesh%20Bhagat&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Development%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%2FML&descSize=17&descAlignY=58" width="100%" alt="Lokesh Bhagat profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,35:172554,70:1D4ED8,100:06B6D4&text=LOKESH%20BHAGAT&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=56&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" alt="Lokesh Bhagat animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%7C+KL+University;Building+Full-Stack+Applications;Java+%7C+Spring+Boot+%7C+React;Exploring+Cloud+Computing+and+AI%2FML" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+KL+University;Java+%7C+Spring+Boot+%7C+React;Building+Full-Stack+Applications;Exploring+Cloud+Computing+%26+AI%2FML" alt="Animated introduction"/>
 
 <br/>
 
 <a href="https://github.com/lokesh15kl">
-<img src="https://img.shields.io/badge/GitHub-lokesh15kl-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-lokesh15kl-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/lokesh-bhagat-330511327/">
-<img src="https://img.shields.io/badge/LinkedIn-Lokesh%20Bhagat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:bhagatlokesh151@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Let's_Talk-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=lokesh15kl&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=lokesh15kl&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-Hi, I'm **Lokesh Bhagat**, a Computer Science and Engineering student at **KL University**, passionate about building practical software solutions and strengthening my skills in backend development, full-stack engineering, and cloud technologies.
+## `01` &nbsp; About Me
 
-- 🎓 Pursuing B.Tech in Computer Science and Engineering — graduating in 2028.
-- 💻 Building full-stack applications using React, Spring Boot, and MySQL.
-- ☕ Strengthening my Java, Data Structures & Algorithms, and problem-solving skills.
-- 🔐 Exploring backend development, REST APIs, and role-based access control.
-- 🤖 Exploring AI/ML and working with AI APIs.
-- 🏆 Participated in a Meta-run hackathon involving the HuggingFace API.
-- 🚀 Interested in software development internships, collaborative projects, and continuous learning.
+<img align="right" width="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh15kl&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" alt="Languages overview"/>
+
+Hey! I'm **Lokesh Bhagat**, a Computer Science and Engineering student at **KL University**, graduating in 2028.
+
+I enjoy turning ideas into practical applications and improving my skills through coding, experimentation, and project development.
+
+- 🎓 B.Tech in Computer Science and Engineering
+- 💻 Full-stack development with React and Spring Boot
+- ☕ Practicing Java, DSA, and problem-solving
+- 🔐 Exploring REST APIs, backend engineering, and role-based security
+- 🤖 Exploring AI/ML and HuggingFace API integrations
+- 🌱 Open to software development internships and collaborations
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+
+## `02` &nbsp; Technologies I Work With
+
+<div align="center">
 
 ### 💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&theme=dark" alt="Programming languages"/>
 
 ### 🎨 Frontend Development
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend technologies"/>
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&theme=dark" alt="Backend technologies"/>
 
 ### 🗄️ Databases
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Database technologies"/>
 
-### ☁️ Cloud, DevOps & Tools
+### ☁️ DevOps & Development Tools
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,maven,vercel&theme=dark" alt="Development tools"/>
+
+### 🤖 AI & APIs
+
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
-</p>
+<img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## `03` &nbsp; Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 💼 Career Portal
 
-A full-stack career assessment platform featuring quizzes, AI-assisted question generation, role-based access, and score analytics.
+A career assessment platform with quizzes, AI-assisted question generation, role-based access, and score analytics.
 
-**Tech Stack:** React · Spring Boot · Spring Data JPA · MySQL · Docker
+**Built with**
+
+`React` `Spring Boot` `JPA` `MySQL` `Docker`
+
+<br/>
 
 <a href="https://github.com/lokesh15kl/career-portal">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Career Portal repository"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Career Portal"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Real-World Autonomous OpenEnv
 
-A hackathon project built using the HuggingFace API, exploring AI-powered interactions in an autonomous environment.
+A hackathon project using the HuggingFace API to explore AI-powered autonomous environments.
 
-**Tech Stack:** Python · HuggingFace API · AI
+**Built with**
+
+`Python` `HuggingFace API` `AI`
+
+<br/>
 
 <a href="https://github.com/lokesh15kl/realworld-autonomous-openenv">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="OpenEnv repository"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore OpenEnv"/>
 </a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 👥 Peer Review System
 
-A full-stack peer review application with a React-based frontend and a Node.js/Express backend.
+A full-stack peer review application with a React frontend and a Node.js/Express backend.
 
-**Tech Stack:** React · Vite · Tailwind CSS · Node.js · Express · SQL
+**Built with**
+
+`React` `Vite` `Tailwind` `Node.js` `Express` `SQL`
+
+<br/>
 
 <a href="https://github.com/lokesh15kl/peer_review_frontend">
-<img src="https://img.shields.io/badge/Frontend-2563EB?style=for-the-badge&logo=react&logoColor=white" alt="Peer Review frontend"/>
+<img src="https://img.shields.io/badge/FRONTEND-0891B2?style=for-the-badge&logo=react&logoColor=white" alt="Peer Review frontend"/>
 </a>
+
 <a href="https://github.com/lokesh15kl/peer_review_backend">
-<img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Peer Review backend"/>
+<img src="https://img.shields.io/badge/BACKEND-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Peer Review backend"/>
 </a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 
 A personal portfolio website built with HTML, CSS, and JavaScript to present projects and development work.
 
+**Built with**
+
+`HTML` `CSS` `JavaScript`
+
+<br/>
+
 <a href="https://github.com/lokesh15kl/portfolio">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-475569?style=for-the-badge&logo=github&logoColor=white" alt="Explore Portfolio"/>
 </a>
 
----
-
-## 🏆 Achievements
-
-- Participated in a Meta-run hackathon and developed a project using the HuggingFace API.
-
----
-
-## 📚 Currently Learning
-
-- ☕ Java and Data Structures & Algorithms
-- ⚙️ Spring Boot and backend engineering
-- 🧪 Software testing and application quality
-- 🤖 AI/ML and practical AI integrations
-- ☁️ Cloud deployment and DevOps fundamentals
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lokesh15kl&show_icons=true&theme=tokyonight&hide_border=true" alt="Lokesh's GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh15kl&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=lokesh15kl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh15kl&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
-I'm interested in **software development internships, collaborative projects, hackathons, and opportunities to learn by building**.
+## `04` &nbsp; GitHub Analytics
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lokesh-bhagat-330511327/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<a href="https://github.com/lokesh15kl">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lokesh15kl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
 </a>
 
-<a href="mailto:bhagatlokesh151@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+<a href="https://github.com/lokesh15kl">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh15kl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=06B6D4&center=true&vCenter=true&width=550&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Closing message"/>
+<img src="https://streak-stats.demolab.com/?user=lokesh15kl&theme=tokyonight&hide_border=true" width="75%" alt="GitHub streak statistics"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=120&section=footer" width="100%" alt="Footer banner"/>
+</div>
+
+---
+
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+## `05` &nbsp; Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+☕ **Java & DSA**
+
+<br/>
+
+Practicing programming fundamentals and problem-solving.
+
+</td>
+<td align="center" width="33%">
+
+⚙️ **Backend Engineering**
+
+<br/>
+
+Learning Spring Boot, APIs, security, and testing.
+
+</td>
+<td align="center" width="33%">
+
+🤖 **AI / ML**
+
+<br/>
+
+Exploring AI integrations and practical applications.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+## `06` &nbsp; Experience & Achievements
+
+- 🏆 Participated in a Meta-run hackathon involving the HuggingFace API.
+- 🚀 Developed projects spanning full-stack applications and AI integration.
+- 📚 Continuously learning through hands-on development and coding practice.
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## `07` &nbsp; Let's Build Something
+
+<div align="center">
+
+I'm interested in **software development internships, hackathons, open-source collaboration, and projects that solve real problems.**
+
+<br/>
+
+<a href="https://github.com/lokesh15kl">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lokesh-bhagat-330511327/">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="mailto:bhagatlokesh151@gmail.com">
+<img src="https://img.shields.io/badge/Send_Me_an_Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Lokesh"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Improve;One+project+at+a+time." alt="Closing message"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,45:172554,100:06B6D4" width="100%" alt="Animated footer"/>
+
+<sub>Designed with curiosity, built with code. © Lokesh Bhagat</sub>
 
 </div>
