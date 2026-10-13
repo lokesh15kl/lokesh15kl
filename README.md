@@ -13,8 +13,9 @@
 <a href="mailto:bhagatlokesh151@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-171329?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=lokesh15kl&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+ <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lokesh15kl&label=PROFILE%20VIEWS&color=8B5CF6&style=flat" alt="Profile views"/>
+</div>
 
 </div>
 
