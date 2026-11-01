@@ -1,21 +1,20 @@
+
 <!-- ================ ANIMATED NEON HEADER ================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090014,25:3B0764,55:6D28D9,80:2563EB,100:06B6D4&text=LOKESH%20BHAGAT&fontSize=52&fontColor=FFFFFF&fontAlignY=35&desc=SOFTWARE%20DEVELOPMENT%20%E2%80%A2%20CLOUD%20%E2%80%A2%20AI%2FML&descSize=16&descAlignY=56&animation=twinkling" width="100%" alt="Lokesh Bhagat animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090014,25:3B0764,55:6D28D9,80:2563EB,100:06B6D4&text=JESICA%20SINGH&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=STUDENT%20%E2%80%A2%20DEVELOPER%20%E2%80%A2%20TECH%20ENTHUSIAST&descSize=16&descAlignY=56&animation=twinkling" width="100%" alt="Jesica Singh animated header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=B.Tech+CSE+%40+KL+University;Java+%7C+Spring+Boot+%7C+React;Building+Full-Stack+Applications;Exploring+AI%2FML+and+Cloud" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Student+at+KL+University;Exploring+Software+Development;Learning+and+Building+Every+Day" alt="Animated introduction"/>
+
+<br/><br/>
+
+<a href="https://github.com/js4994"><img src="https://img.shields.io/badge/GITHUB-JS4994-171329?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
+<a href="mailto:jesica.singh4994@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-171329?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
 
 <br/><br/>
 
-<a href="https://github.com/lokesh15kl"><img src="https://img.shields.io/badge/GITHUB-LOKESH15KL-171329?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/lokesh-bhagat-330511327/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-171329?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
-<a href="mailto:bhagatlokesh151@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-171329?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
-
-<br/><br/>
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokesh15kl&label=PROFILE%20VIEWS&color=8B5CF6&style=flat" alt="Profile views"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=js4994&label=PROFILE%20VIEWS&color=8B5CF6&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -24,26 +23,23 @@
 <!-- ================ ABOUT ME ================ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=About%20Me&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="About Me animated banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=About%20Me&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="About Me banner"/>
 </div>
 
-Hi, I'm **Lokesh Bhagat**, a Computer Science and Engineering student at **KL University**, graduating in 2028.
+Hi, I'm **Jesica Singh**, a student at **KL University**, passionate about technology and learning new things.
 
-I'm passionate about building practical software solutions and improving my skills in full-stack development, backend engineering, and AI integrations.
-
-- 🎓 Pursuing B.Tech in Computer Science and Engineering.
-- 💻 Building full-stack applications with React, Spring Boot, and MySQL.
-- ☕ Improving Java, Data Structures & Algorithms, and problem-solving.
-- 🔐 Exploring REST APIs, Spring Security, and role-based access.
-- 🤖 Exploring AI/ML and HuggingFace API integrations.
-- 🏆 Participated in a Meta-run hackathon involving the HuggingFace API.
-- 🚀 Open to software development internships and collaborations.
+- 🎓 Student at KL University.
+- 💻 Interested in programming and software development.
+- 🌱 Continuously learning new technologies.
+- 🚀 Exploring projects and improving my technical skills.
+- 🤝 Interested in collaboration and learning opportunities.
 
 ---
 
 <!-- ================ TECH STACK ================ -->
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Tech%20Stack&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Tech stack banner"/>
 
 ### 💻 Languages
@@ -76,71 +72,93 @@ I'm passionate about building practical software solutions and improving my skil
 
 ---
 
-<!-- ================ FEATURED PROJECTS ================ -->
+<!-- ================ MY REPOSITORIES ================ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Featured%20Projects&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Featured projects banner"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=My%20Repositories&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Repositories banner"/>
+
+<br/><br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3>💼 Career Portal</h3>
+### 📁 Jesica
 
-A full-stack career assessment platform with quizzes, AI-assisted question generation, role-based access, and score analytics.
-
-**Tech stack:** React · Spring Boot · Spring Data JPA · MySQL · Docker
-
-<a href="https://github.com/lokesh15kl/career-portal"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Career Portal"/></a>
+<a href="https://github.com/js4994/Jesica">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Jesica repository"/>
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3>🤖 Real-World Autonomous OpenEnv</h3>
+### 📁 P002
 
-A hackathon project built using the HuggingFace API to explore AI-powered autonomous environments.
-
-**Tech stack:** Python · HuggingFace API · AI
-
-<a href="https://github.com/lokesh15kl/realworld-autonomous-openenv"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="OpenEnv"/></a>
+<a href="https://github.com/js4994/p002">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="P002 repository"/>
+</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3>👥 Peer Review System</h3>
+### 📁 P003
 
-A full-stack peer review application with a React frontend and Node.js/Express backend.
-
-**Tech stack:** React · Vite · Tailwind CSS · Node.js · Express · SQL
-
-<a href="https://github.com/lokesh15kl/peer_review_frontend"><img src="https://img.shields.io/badge/FRONTEND-0891B2?style=for-the-badge&logo=react&logoColor=white" alt="Peer Review frontend"/></a>
-
-<a href="https://github.com/lokesh15kl/peer_review_backend"><img src="https://img.shields.io/badge/BACKEND-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Peer Review backend"/></a>
+<a href="https://github.com/js4994/p003">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="P003 repository"/>
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3>🌐 Personal Portfolio</h3>
+### 📁 P004
 
-A personal portfolio website built using HTML, CSS, and JavaScript.
+<a href="https://github.com/js4994/p004">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="P004 repository"/>
+</a>
 
-**Tech stack:** HTML · CSS · JavaScript
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-<a href="https://github.com/lokesh15kl/portfolio"><img src="https://img.shields.io/badge/EXPLORE_PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
+### 📁 P005
+
+<a href="https://github.com/js4994/p005">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="P005 repository"/>
+</a>
+
+</td>
+<td width="50%" align="center">
+
+### 📁 P006
+
+<a href="https://github.com/js4994/p006">
+<img src="https://img.shields.io/badge/OPEN_REPOSITORY-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="P006 repository"/>
+</a>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+<a href="https://github.com/js4994?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
 
 ---
 
 <!-- ================ CERTIFICATIONS ================ -->
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Certifications&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Certifications banner"/>
+
 </div>
 
 <div align="center">
@@ -151,7 +169,7 @@ A personal portfolio website built using HTML, CSS, and JavaScript.
 
 ### 🏅 Certifications & Credentials
 
-Add your earned certification names and official verification links here.
+Add earned certification names and official verification links here.
 
 *Only verified credentials are included.*
 
@@ -166,30 +184,49 @@ Add your earned certification names and official verification links here.
 <!-- ================ GITHUB ANALYTICS ================ -->
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=GitHub%20Analytics&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="GitHub analytics banner"/>
 
 <br/><br/>
 
-<a href="https://github.com/lokesh15kl">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lokesh15kl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/js4994">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=js4994&theme=tokyonight" alt="GitHub statistics"/>
 </a>
 
-<a href="https://github.com/lokesh15kl">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh15kl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+<a href="https://github.com/js4994">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=js4994&theme=tokyonight" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=lokesh15kl&theme=tokyonight&hide_border=true" width="80%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=js4994&theme=tokyonight&hide_border=true" width="80%" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-<!-- ================ CURRENT FOCUS ================ -->
+<!-- ================ CONTRIBUTION ACTIVITY ================ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Currently%20Learning&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Current learning banner"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Contribution%20Activity&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Contribution activity banner"/>
+
+<br/><br/>
+
+<a href="https://github.com/js4994?tab=overview">
+<img src="https://img.shields.io/badge/VIEW_MY_GITHUB_CONTRIBUTIONS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View contributions"/>
+</a>
+
+</div>
+
+---
+
+<!-- ================ CURRENT LEARNING ================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Currently%20Learning&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Currently learning banner"/>
+
 </div>
 
 <table>
@@ -223,12 +260,14 @@ AI integrations and practical applications.
 <!-- ================ ACHIEVEMENTS ================ -->
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:190B35,50:6D28D9,100:06B6D4&text=Achievements&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Achievements banner"/>
+
 </div>
 
-- 🏆 Participated in a Meta-run hackathon involving the HuggingFace API.
-- 🚀 Developed projects across full-stack development and AI integration.
-- 📚 Continuously improving through hands-on development and coding practice.
+- 🚀 Exploring software development through practical projects.
+- 📚 Continuously improving technical and problem-solving skills.
+- 🤝 Interested in learning, collaboration, and new opportunities.
 
 ---
 
@@ -240,13 +279,17 @@ AI integrations and practical applications.
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Have+an+interesting+project%3F;Let's+learn+and+build+together.;Open+to+internships+and+collaboration." alt="Animated connection message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=Have+an+interesting+project%3F;Let's+learn+and+build+together.;Open+to+collaboration+and+learning." alt="Animated connection message"/>
 
 <br/><br/>
 
-<a href="https://github.com/lokesh15kl"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-171329?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore GitHub"/></a>
-<a href="https://www.linkedin.com/in/lokesh-bhagat-330511327/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-171329?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>
-<a href="mailto:bhagatlokesh151@gmail.com"><img src="https://img.shields.io/badge/SEND_AN_EMAIL-171329?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/></a>
+<a href="https://github.com/js4994">
+<img src="https://img.shields.io/badge/EXPLORE_MY_CODE-171329?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore GitHub"/>
+</a>
+
+<a href="mailto:jesica.singh4994@gmail.com">
+<img src="https://img.shields.io/badge/SEND_AN_EMAIL-171329?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email"/>
+</a>
 
 <br/><br/>
 
@@ -258,6 +301,6 @@ AI integrations and practical applications.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:080817,25:190B35,50:4C1D95,75:6D28D9,100:06B6D4&animation=twinkling" width="100%" alt="Animated neon footer"/>
 
-<sub>Designed with curiosity · Built by Lokesh Bhagat</sub>
+<sub>Designed with creativity · Built by Jesica Singh 💜</sub>
 
 </div>
