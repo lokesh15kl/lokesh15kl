@@ -171,12 +171,13 @@ Add your earned certification names and official verification links here.
 <br/><br/>
 
 <a href="https://github.com/lokesh15kl">
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lokesh15kl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://raw.githubusercontent.com/lokesh15kl/lokesh15kl/main/assets/github-stats.svg" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/lokesh15kl">
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lokesh15kl&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+<img height="180" src="https://raw.githubusercontent.com/lokesh15kl/lokesh15kl/main/assets/top-languages.svg" alt="Most used languages"/>
 </a>
+
 
 <br/><br/>
 
